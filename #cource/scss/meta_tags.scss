@@ -1,0 +1,12 @@
+//ОТОБРАЖЕНИЕ КОНТЕНТА
+//кадировка
+<meta charset="UTF-8">
+//настройка адаптивности страницы
+//1) если адаптивность НЕ нужна
+<meta name="viewport" content="width=1170">
+//2) если адаптивность нужна
+<meta name="viiwport" content="width=device-width">
+//для адаптивности на мобильных устройствах
+<meta name="viiwport" content="width=device-width, intial-scale=1.0, maximum-scale=1.0, user-scalahle=0">
+//отключает форматирование ссылки у номера телефона на IOS
+<meta name="format-detection" content="telephone=no">
